@@ -1,6 +1,6 @@
 @font-face {
     font-family: open-san;
-    src: url(./Fonts/OpenSans_Condensed-Medium.ttf);
+    src: url(./Fonts/Poppins-Light.ttf);
 }
 
 *{
@@ -8,5 +8,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family:"open-san";
+}
+
+body{
+    padding-top: 69px;
 }
 
