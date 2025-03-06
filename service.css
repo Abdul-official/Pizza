@@ -1,0 +1,43 @@
+.bi-twitter{
+    color: #000;
+}
+.bi-twitter:hover{
+    color: darkcyan;
+    transition: .5s;
+}
+.bi-facebook{
+    color: #000;
+}
+.bi-facebook:hover{
+    color: navy;
+    transition: .5s;
+}
+.bi-instagram{
+    color: #000;
+}
+.bi-instagram:hover{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: .5s;
+}
+.bi-linkedin{
+    color: #000;
+}
+.bi-linkedin:hover{
+    color: blue;
+    transition: .5s;
+}
+.bi-whatsapp{
+    color: #000;
+}
+.bi-whatsapp:hover{
+    color: darkgreen;
+    transition: .5s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: all .5s;
+}
